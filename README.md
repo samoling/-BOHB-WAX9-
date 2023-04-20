@@ -4,7 +4,7 @@ Problem1
 
 实现路径:com/ksyun/whgc/xulei/problem1/StringTools.java
 
-测试路径:com/ksyun/whgc/xulei/problem1/StringToolsTest.java
+测试路径:com/ksyun/whgc/xulei/problem1/Problem1Test.java
 
 commit id:
 
@@ -20,7 +20,7 @@ pg:共提交三次，存在修改内容。
 
 实现路径:com/ksyun/whgc/xulei/problem1/StringTools.java
 
-测试路径:com/ksyun/whgc/xulei/problem1/StringToolsTest.java
+测试路径:com/ksyun/whgc/xulei/problem1/Problem1Test.java
 
 commit id:
 
@@ -30,7 +30,7 @@ commit id:
 
 实现路径:com/ksyun/whgc/xulei/problem1/StringTools.java
 
-测试路径:com/ksyun/whgc/xulei/problem1/StringToolsTest.java
+测试路径:com/ksyun/whgc/xulei/problem1/Problem1Test.java
 
 commit id:
 
@@ -40,7 +40,7 @@ commit id:
 
 实现路径:com/ksyun/whgc/xulei/problem1/StringTools.java
 
-测试路径:com/ksyun/whgc/xulei/problem1/StringToolsTest.java
+测试路径:com/ksyun/whgc/xulei/problem1/Problem1Test.java
 
 commit id:
 
@@ -48,11 +48,19 @@ commit id:
 
 Problem2
 
+实现路径:com/ksyun/whgc/xulei/problem2/MyWriter.java
+
+测试路径:com/ksyun/whgc/xulei/problem2/Problem2Test.java
+
+commit id:
+
+f937942ee59eb9237984ebad338f5c4c01591c42
+
 Problem3
 
 实现路径:com/ksyun/whgc/xulei/problem3/MyThread.java
 
-测试路径:com/ksyun/whgc/xulei/problem3/MyThreadTest.java
+测试路径:com/ksyun/whgc/xulei/problem3/Problem3Test.java
 
 commit id:
 
